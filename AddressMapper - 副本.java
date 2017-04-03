@@ -6,5 +6,5 @@ package com.neuedu.gdmu_o2o.dao;
  *
  */
 public interface AddressMapper {
-
+	public getAddrss();
 }
